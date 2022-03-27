@@ -22,3 +22,15 @@
 </div>
   
 ##
+
+
+##
+
+<div align="center"><br>
+   <a href="https://github.com/Martinslica">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MartinsLica&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinslica&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+  
+##
+  
