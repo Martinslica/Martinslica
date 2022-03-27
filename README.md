@@ -3,7 +3,7 @@
 <div/>
 
 
-### É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso!!! || Discord tag1773 Lia Carter || She 
+### É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso!!! || She :)
 
 <div align="center"><br>
    <img width="300" height="300" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif"/>
